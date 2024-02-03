@@ -1,0 +1,11 @@
+:root {
+    font-size: 62.5%;
+    --all-color-text: #34355B;
+    --box-color: #f1f1f1;
+    --text-box-color: #E4EDF1;
+    --button-color: #e69500;
+    --button-hover: #c48600;
+    --text-button-color: #eeeeee;
+    --background-color: linear-gradient(50deg, rgba(25, 3, 97, 1) 0%, rgba(187, 0, 255, 1) 100%);
+    --box-shadow: 0px 0px 44px -16px rgba(0, 0, 0, 0.575);
+}
